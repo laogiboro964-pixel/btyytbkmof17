@@ -1,9 +1,10 @@
+
 {
   "showDialog": true,
-  "latestVersionCode": 15201600,
-  "latestVersionName": "18.0.10000",
-  "title": "UPDATE",
-  "message": "west features and improvements.",
-  "UpdateButtonText": "DOWNLOAD Znew",
+  "latestVersionCode": 15301640,
+  "latestVersionName": "15.5.0",
+  "title": "UPDATE AVAILABLE",
+  "message": "Get the newest features and improvements.",
+  "UpdateButtonText": "DOWNLOAD",
   "UpdateButtonUrl": "https://t.me/Keron_New"
 }
